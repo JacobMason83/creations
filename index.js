@@ -28,7 +28,7 @@ findUs.addEventListener('click', () => {
     findUs.href = 'https://maps.google.com'
 })
 wiki.addEventListener('click', () => {
-    wiki.href = 'https://www.wikepeda.com'
+    wiki.href = 'https://en.wikipedia.org/wiki/Paganism'
 })
 call.addEventListener('click', () => {
     alert('Our Phone Number is 260-555-5555')
