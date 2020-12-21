@@ -30,7 +30,7 @@ body {
 
 
 
-  .nav-bar-wrapper ul img {
+  .nav-bar-wrapper  img {
   width: 10%;
 }
 
@@ -43,12 +43,13 @@ body {
   margin-bottom: 5px;
   
 }
+     
 
            .nav-links .word-wrap {
   box-shadow: 0px 10px 14px -7px #276873;
   background: linear-gradient(to bottom, darkblue 5%, $custom-color 100%);
   background-color: $custom-color;
-  padding: 10px;
+  padding: 20px;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;

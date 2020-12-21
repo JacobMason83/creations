@@ -39,7 +39,7 @@ body {
   box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
-.nav-bar-wrapper ul img {
+.nav-bar-wrapper img {
   width: 10%;
 }
 
@@ -63,7 +63,7 @@ body {
   background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, darkblue), to(#ffce2f));
   background: linear-gradient(to bottom, darkblue 5%, #ffce2f 100%);
   background-color: #ffce2f;
-  padding: 10px;
+  padding: 20px;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
